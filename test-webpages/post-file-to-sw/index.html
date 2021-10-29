@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World</title>
+  </head>
+  <body>
+    <p><b>This test page is to reproduce <a href=https://bugzilla.mozilla.org/show_bug.cgi?id=1742540>MozBug 1742540</a></b></p>
+    <p><b>Upload a local file and postMessage to service worker</b></p>
+    <label for="localFile">Upload here: </label>
+    <input id="localFile" type="file">
+    <br>
+    <br>
+    <input id="printFile" type="checkbox" >
+    <label for="printFile">Print file content on service worker or not</label>
+    <br>
+    <br>
+    <button id="sendFile" type="button">Let's Send!</button>
+  </body>
+  <script src="./script/main.js"></script>
+</html>

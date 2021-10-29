@@ -23,3 +23,14 @@ window.addEventListener('DOMContentLoaded', (event) => {
     }
   )
 });
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register("/test-webpages/post-file-to-sw/sw.js").then(function(registration) {
+    debug("Service worker registration succeeded: " + registration);
+  }, function(error) {
+    debug("Service worker registration failed: " + error);
+  });
+} else {
+  debug("Service workers are not supported.");
+}
+
