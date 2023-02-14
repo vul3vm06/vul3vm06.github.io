@@ -4,7 +4,7 @@
 
 ## About
 
-A senior software engineer with more than 9 years of developing experience on embedded Linux system.
+A senior software engineer developing AI SDK for Windows on Snapdragon.
 
 Has about 5 years experience in KaiOS, developing Web APIs on KaiOS, a web-based mobile operating system forked from Firefox OS.
 
@@ -15,6 +15,10 @@ Has about 4 years experience in Synology, developing backup application and surv
 Embedded Linux Systems, System Programming, C++, Rust, JavaScript, Python.
 
 ## Work Experience
+
+### Qualcomm - Senior Engineer ( Aug 2022 - Present )
+
+- Developing Qualcomm Neural Processing SDK for Windows on Snapdragon.
 
 ### KaiOS - Senior Software Engineer ( May 2017 - Jun 2022 )
 
