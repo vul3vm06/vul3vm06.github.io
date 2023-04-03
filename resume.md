@@ -16,7 +16,7 @@ Embedded Linux Systems, System Programming, C++, Rust, JavaScript, Python.
 
 ## Work Experience
 
-### Qualcomm - Senior Engineer ( Aug 2022 - Present )
+### Qualcomm - Senior Engineer ( Aug 2022 - Mar 2023 )
 
 - Developing Qualcomm Neural Processing SDK for Windows on Snapdragon.
 
